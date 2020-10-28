@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\bin\Debug\CarDashboard.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\bin\Debug\CarDashboard.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\bin\Debug\CarDashboard.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\CarDashboard\CarDashboard\obj\Debug\CarDashboard.pdb
